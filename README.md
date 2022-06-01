@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hi there, I'm Abby Low
+I'm a Software Engineer | DeFi Enthusiast | Writer | Daydreamer :thought_balloon: <br /><br />  
 
-<!--
-**abbylow/abbylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 I'm currently...
+- 👩‍💻 working as a Frontend Engineer at [Bybit](https://bybit.com/)
+- 🔭 exploring opportunity for any startup idea
+- 🌱 learning Web 3 development<br /><br />  
+
+
+## 💻 My Web 3 projects
+- [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
+- [Wave Portal](https://github.com/abbylow/buildspace-solidity)
+- [NFT Minting](https://github.com/abbylow/buildspace-nft-frontend)
+- [DAO using Thirdweb](https://github.com/abbylow/buildspace-dao)
+- [Lottery using Solidity](https://github.com/abbylow/lottery-solidity) (currently working on a lottery game using Chainlink VRF)<br /><br />  
+
+
+## :closed_book: My posts on Medium
+https://abbylow.medium.com/<br /><br />  
+
+
+
+## 📫 How to reach me
+You can reach me at yu950713@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/abbylow0713/)
