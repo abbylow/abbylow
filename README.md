@@ -4,7 +4,7 @@ I'm a Software Engineer | DeFi Enthusiast | Writer | Daydreamer :thought_balloon
 
 
 ## 🔨 I'm currently...
-- 👩‍💻 working as a Frontend Engineer at [Bybit](https://bybit.com/)
+- 👩‍💻 working as a Web 3 Engineer
 - 🔭 exploring opportunity for any startup idea
 - 🌱 learning Web 3 development<br /><br />  
 
