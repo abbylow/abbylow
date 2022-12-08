@@ -10,7 +10,8 @@ I'm a Software Engineer | DeFi Enthusiast | Writer | Daydreamer :thought_balloon
 
 
 ## 🤖 My AI projects
-- [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)
+- [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br />  
+
 
 ## 💻 My Web 3 projects
 - [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
