@@ -10,7 +10,8 @@ I'm a Software Engineer | DeFi Enthusiast | Writer | Daydreamer :thought_balloon
 
 
 ## 🤖 My AI projects
-- [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br />  
+- [SoundBetter - A tool to turn your words to professional messages](https://sound-better-production.up.railway.app/)
+- [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br /> 
 
 
 ## 💻 My Web 3 projects
@@ -27,4 +28,8 @@ https://abbylow.medium.com/<br /><br />
 
 
 ## 📫 How to reach me
-You can reach me at yu950713@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/abbylow0713/)
+You can reach me at yu950713@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/abbylow0713/)<br /><br />  
+
+
+## Like what I build? 
+If you like what I build, I sincerely appreciate it and feel free to [buy me a bubble tea 🧋](https://www.buymeacoffee.com/abbylow) so I have the blood sugar to keep on building! 
