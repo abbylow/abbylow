@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Abby Low
-I'm a Software Engineer | DeFi Enthusiast | Writer | Daydreamer :thought_balloon: <br /><br />  
+I'm a Builder <br /><br />  
 
 
 
