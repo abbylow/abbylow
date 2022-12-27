@@ -10,7 +10,7 @@ I'm a Builder <br /><br />
 
 
 ## 🤖 My AI projects
-- [SoundBetter - A tool to turn your words to professional messages](https://sound-better-production.up.railway.app/)
+- [SoundBetter - A tool to turn your words to professional messages](https://soundbetter.cc/)
 - [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br /> 
 
 
