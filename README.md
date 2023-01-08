@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Abby Low
-I'm a Builder <br /><br />  
+I'm a Builder and F.I.R.E fighter 🧑‍🚒 <br /><br />  
 
 
 
 ## 🔨 I'm currently...
 - 👩‍💻 working as a Web 3 Engineer
-- 🔭 exploring opportunity for any startup idea
+- 🏗️ building projects nights and weekends
 - 🌱 learning Web 3 development<br /><br />  
 
 
