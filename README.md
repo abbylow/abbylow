@@ -15,6 +15,7 @@ I'm a Builder and F.I.R.E fighter 🧑‍🚒 <br /><br />
 
 
 ## 💻 My Web 3 projects
+- [ZkBlind - Anonymous Workplace Platform](https://www.zkblind.com/)
 - [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
 - [Wave Portal](https://github.com/abbylow/buildspace-solidity)
 - [NFT Minting](https://github.com/abbylow/buildspace-nft-frontend)
