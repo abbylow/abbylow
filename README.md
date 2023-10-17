@@ -10,17 +10,23 @@ I'm a Builder and F.I.R.E fighter 🧑‍🚒 <br /><br />
 
 
 ## 🤖 My AI projects
-- [SoundBetter - A tool to turn your words to professional messages](https://soundbetter.cc/)
+- [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better)
 - [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br /> 
 
 
 ## 💻 My Web 3 projects
-- [ZkBlind - Anonymous Workplace Platform](https://www.zkblind.com/)
+- [Supagraph demo with IziSwap - On-chain data indexing](https://github.com/abbylow/supagraph-test)
+- [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
+- [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
 - [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
 - [Wave Portal](https://github.com/abbylow/buildspace-solidity)
 - [NFT Minting](https://github.com/abbylow/buildspace-nft-frontend)
 - [DAO using Thirdweb](https://github.com/abbylow/buildspace-dao)
-- [Lottery using Solidity](https://github.com/abbylow/lottery-solidity) (currently working on a lottery game using Chainlink VRF)<br /><br />  
+- [Lottery using Solidity](https://github.com/abbylow/lottery-solidity) <br /><br />  
+
+
+## 🏆 My Product Hunt
+- SoundBetter was ranked product of the day #5 on [ProductHunt](https://www.producthunt.com/products/soundbetter-2)<br /><br />  
 
 
 ## :closed_book: My posts on Medium
