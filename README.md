@@ -1,12 +1,11 @@
 ## 👋 Hi there, I'm Abby Low
-I'm a Builder and F.I.R.E fighter 🧑‍🚒 <br /><br />  
+I'm a indie hacker and F.I.R.E fighter 🧑‍🚒 <br /><br />  
 
 
 
 ## 🔨 I'm currently...
 - 👩‍💻 working as a Web 3 Engineer
-- 🏗️ building projects nights and weekends
-- 🌱 learning Web 3 development<br /><br />  
+- 🏗️ building projects nights and weekends<br /><br />  
 
 
 ## 🤖 My AI projects
@@ -15,14 +14,10 @@ I'm a Builder and F.I.R.E fighter 🧑‍🚒 <br /><br />
 
 
 ## 💻 My Web 3 projects
-- [Supagraph demo with IziSwap - On-chain data indexing](https://github.com/abbylow/supagraph-test)
+- [WIP: Supagraph demo with IziSwap - On-chain data indexing](https://github.com/abbylow/supagraph-test)
 - [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
 - [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
-- [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
-- [Wave Portal](https://github.com/abbylow/buildspace-solidity)
-- [NFT Minting](https://github.com/abbylow/buildspace-nft-frontend)
-- [DAO using Thirdweb](https://github.com/abbylow/buildspace-dao)
-- [Lottery using Solidity](https://github.com/abbylow/lottery-solidity) <br /><br />  
+- [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)<br /><br />  
 
 
 ## 🏆 My Product Hunt
@@ -38,5 +33,5 @@ https://abbylow.medium.com/<br /><br />
 You can reach me at yu950713@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/abbylow0713/)<br /><br />  
 
 
-## Like what I build? 
+## 💪 Sponsor me
 If you like what I build, I sincerely appreciate it and feel free to [buy me a bubble tea 🧋](https://www.buymeacoffee.com/abbylow) so I have the blood sugar to keep on building! 
