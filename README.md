@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Abby Low
-I'm a indie hacker and F.I.R.E fighter 🧑‍🚒 <br /><br />  
+I'm a F.I.R.E fighter 🧑‍🚒 <br /><br />  
 
 
 
