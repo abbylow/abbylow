@@ -9,8 +9,7 @@ I'm a indie hacker and F.I.R.E fighter 🧑‍🚒 <br /><br />
 
 
 ## 🤖 My AI projects
-- [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better)
-- [Magical Book Summarizer powered by GPT3 - Ada](https://github.com/abbylow/gpt3-writer-starter)<br /><br /> 
+- [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better)<br /><br /> 
 
 
 ## 💻 My Web 3 projects
