@@ -13,7 +13,6 @@ I'm a F.I.R.E fighter 🧑‍🚒 <br /><br />
 
 
 ## 💻 My Web 3 projects
-- [WIP: Supagraph demo with IziSwap - On-chain data indexing](https://github.com/abbylow/supagraph-test)
 - [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
 - [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
 - [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)<br /><br />  
