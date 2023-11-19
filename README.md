@@ -7,9 +7,12 @@ I'm a F.I.R.E fighter 🧑‍🚒 <br /><br />
 - 👩‍💻 working as a Web 3 Engineer
 - 🏗️ building projects nights and weekends<br /><br />  
 
+## My OpenAI custom models
+- [English Guru - Your pocket-sized English mentor](https://chat.openai.com/g/g-gq772hTs2-english-guru)
+- [Enhances workplace communication, turning your thoughts into professional dialogue](https://chat.openai.com/g/g-cU95OxEHZ-sound-better)
 
 ## 🤖 My AI projects
-- [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better)<br /><br /> 
+- [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better)<br /><br />
 
 
 ## 💻 My Web 3 projects
