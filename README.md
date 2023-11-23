@@ -23,7 +23,6 @@ Let me share some past projects with you!
 ### 💻 Web 3
 - [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
 - [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
-- [Swap using Raydium SDK](https://github.com/abbylow/raydium-test)
 
 
 ### 🖼️ Image Processing
@@ -32,7 +31,7 @@ Let me share some past projects with you!
 
 
 ## :closed_book: My posts on Medium
-https://abbylow.medium.com/<br /><br />  
+https://abbylow.medium.com/
 
 
 ## 📫 How to reach me
