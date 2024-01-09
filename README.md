@@ -35,4 +35,4 @@ https://abbylow.medium.com/
 
 
 ## 📫 How to reach me
-You can reach me at yu950713@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/abbylow0713/)<br /><br />  
+You can reach me at [LinkedIn](https://www.linkedin.com/in/abbylow0713/)
