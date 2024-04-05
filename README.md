@@ -9,7 +9,7 @@ Passionate about staying ahead in the tech world, particularly with the latest i
 I juggle code and nurture dreams of launching my own venture – envisioning a future where I build my own dream empire.
 
 ## 🚧 WIP Projects
-- [Wine marketplace](https://wine-biz.vercel.app/) - Built with NextJs | TailwindCSS | Shadcn UI | Vercel
+- [Wine marketplace](https://wine-biz.vercel.app/) (Halted) - Built with NextJs | TailwindCSS | Shadcn UI | Vercel
 
   This project showcases my frontend development skills, including CSS styling, the utilization of UI frameworks, responsive design, and cross-browser compatibility. The project is currently a work in progress, featuring only a placeholder frontend for now.
 - [Juku - a social technology platform to connect Learners and Subject Matter Experts](https://juku.vercel.app/) - Built with Thirdweb Connect | Lit Protocol | Orbis Social | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel
