@@ -8,6 +8,9 @@ Passionate about staying ahead in the tech world, particularly with the latest i
 
 I juggle code and nurture dreams of launching my own venture – envisioning a future where I build my own dream empire.
 
+## 😎 Hackathon
+- [ETHGlobal Bangkok](https://ethglobal.b0bd725bc77a3ea7cd3826627d01fcb6.r2.cloudflarestorage.com/certificates/155246/certificate.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dd28f7ba85ca3162a53d5c60b5f3dd05%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T084246Z&X-Amz-Expires=3600&X-Amz-Signature=52b07f8831d89997b87aa7962195fe20f147c3d912a9076b5859416a4da058fe&X-Amz-SignedHeaders=host) - [Vote for Your Idol](https://ethglobal.com/showcase/vote-for-your-idol-0ap8f)
+
 ## 🚧 WIP Projects
 - [Wine marketplace](https://wine-biz.vercel.app/) (Halted) - Built with NextJs | TailwindCSS | Shadcn UI | Vercel
 
@@ -40,9 +43,6 @@ Let me share some past projects with you!
 
 ## :closed_book: My posts on Medium
 https://abbylow.medium.com/
-
-## Hackathon
-- [ETHGlobal Bangkok](https://ethglobal.b0bd725bc77a3ea7cd3826627d01fcb6.r2.cloudflarestorage.com/certificates/155246/certificate.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dd28f7ba85ca3162a53d5c60b5f3dd05%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T084246Z&X-Amz-Expires=3600&X-Amz-Signature=52b07f8831d89997b87aa7962195fe20f147c3d912a9076b5859416a4da058fe&X-Amz-SignedHeaders=host) - [Vote for Your Idol](https://ethglobal.com/showcase/vote-for-your-idol-0ap8f)
 
 ## 📫 How to reach me
 You can reach me at [LinkedIn](https://www.linkedin.com/in/abbylow0713/)
