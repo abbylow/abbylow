@@ -17,7 +17,7 @@ I juggle code and nurture dreams of launching my own venture – envisioning a f
   This project showcases my frontend development skills, including CSS styling, the utilization of UI frameworks, responsive design, and cross-browser compatibility. The project is currently a work in progress, featuring only a placeholder frontend for now.
 - [Juku - a social technology platform to connect Learners and Subject Matter Experts](https://juku.vercel.app/) - Built with Thirdweb Connect | Lit Protocol | NeonDB | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel
   
-  This project highlights my expertise in frontend development and my proficiency in integrating Web3 technologies, such as connecting a wallet / web2 social SSO using ThirdWeb SDK. It demonstrates my capability in building a decentralized application (DApp) on the decentralized social graph, Orbis Social, and securing user data through encryption with Lit Protocol. Currently a work in progress, several features are still in the development phase.
+  Currently a work in progress, several features are still in the development phase.
 
 ## 🧠 Past Projects
 Let me share some past projects with you! 
