@@ -11,14 +11,14 @@ I juggle code and nurture dreams of launching my own venture – envisioning a f
 ## 😎 Hackathon
 - ETHGlobal Bangkok - [Vote for Your Idol](https://ethglobal.com/showcase/vote-for-your-idol-0ap8f)
 
-## 🚧 WIP Projects
-  This project showcases my frontend development skills, including CSS styling, the utilization of UI frameworks, responsive design, and cross-browser compatibility. The project is currently a work in progress, featuring only a placeholder frontend for now.
-- [Juku - a social technology platform to connect Learners and Subject Matter Experts]([https://juku.vercel.app/](https://juku-bounty.vercel.app/)) - Built with Thirdweb Connect | Lit Protocol | NeonDB | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel
-  
-  Currently a work in progress, several features are still in the development phase.
-
 ## 🧠 Past Projects
 Let me share some past projects with you! 
+
+### 💻 Web 3
+- [Juku - a social technology platform to connect Learners and Subject Matter Experts](https://juku-bounty.vercel.app/) - Built with Thirdweb | NeonDB | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel  
+- [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
+- [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
+  
 
 ### 🦾 OpenAI Custom GPT
 - [English Guru - Your pocket-sized English mentor (optimal to be used with OpenAI mobile app voice control)](https://chat.openai.com/g/g-gq772hTs2-english-guru)
@@ -27,12 +27,6 @@ Let me share some past projects with you!
 
 ### 🤖 AI
 - [SoundBetter - A tool to turn your words to professional messages](https://github.com/abbylow/sound-better) 🏆 SoundBetter was ranked product of the day #5 on [ProductHunt](https://www.producthunt.com/products/soundbetter-2)
-
-
-### 💻 Web 3
-- [ZkBlind - Anonymous Workplace Platform](https://github.com/abbylow/zkblind-mono)
-- [NFT Gas Comparison](https://github.com/abbylow/nft-comparison)
-
 
 ### 🖼️ Image Processing
 - [Image similarity check](https://github.com/abbylow/image-similarity-check)
