@@ -12,10 +12,8 @@ I juggle code and nurture dreams of launching my own venture – envisioning a f
 - ETHGlobal Bangkok - [Vote for Your Idol](https://ethglobal.com/showcase/vote-for-your-idol-0ap8f)
 
 ## 🚧 WIP Projects
-- [Wine marketplace](https://wine-biz.vercel.app/) (Halted) - Built with NextJs | TailwindCSS | Shadcn UI | Vercel
-
   This project showcases my frontend development skills, including CSS styling, the utilization of UI frameworks, responsive design, and cross-browser compatibility. The project is currently a work in progress, featuring only a placeholder frontend for now.
-- [Juku - a social technology platform to connect Learners and Subject Matter Experts](https://juku.vercel.app/) - Built with Thirdweb Connect | Lit Protocol | NeonDB | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel
+- [Juku - a social technology platform to connect Learners and Subject Matter Experts]([https://juku.vercel.app/](https://juku-bounty.vercel.app/)) - Built with Thirdweb Connect | Lit Protocol | NeonDB | IPFS | NextJs | TailwindCSS | Shadcn UI | Vercel
   
   Currently a work in progress, several features are still in the development phase.
 
